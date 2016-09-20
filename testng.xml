@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="TestngN">
+    <classes>
+      <class name="testngr.testngcl"/>
+      <class name="testngr.gmail"/>
+    </classes>
+  </test> <!-- TestngN -->
+</suite> <!-- Suite -->
